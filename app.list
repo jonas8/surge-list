@@ -1,0 +1,16 @@
+# TikTok
+USER-AGENT,TikTok*
+DOMAIN-SUFFIX,tiktok.com
+# Quora
+USER-AGENT,Quora*
+# Netflix
+USER-AGENT,Argo*
+// macOS（Telegram 客户端）
+PROCESS-NAME,Telegram
+//iOS
+USER-AGENT,ph.telegra.Telegraph*
+#slack
+// iOS Slack
+USER-AGENT,Slack*
+// macOS Slack
+PROCESS-NAME,Slack

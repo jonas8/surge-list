@@ -1,0 +1,66 @@
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+//for BBC 
+DOMAIN-KEYWORD,bbc
+//for Facebook
+DOMAIN-KEYWORD,facebook
+//for tw
+DOMAIN-SUFFIX,tw
+//for ios 11 app store
+DOMAIN, apps.mzstatic.com 
+// for packapge registry
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-SUFFIX,packagist.org
+DOMAIN-SUFFIX,rubygems.org
+// dropbox
+DOMAIN-SUFFIX,dropboxstatic.com
+// caniuse
+DOMAIN-SUFFIX,caniuse.com
+// dribbble
+DOMAIN-SUFFIX,dribbble.com
+// github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+// surge
+DOMAIN-SUFFIX,nssurge.com
+// docker
+DOMAIN-SUFFIX,docker.com
+// CN2 supplier
+DOMAIN-SUFFIX,pumpcloud.net
+// wire app
+DOMAIN-SUFFIX,wire.com
+// itunes
+// DOMAIN-SUFFIX,itunes.apple.com
+// skype
+DOMAIN-SUFFIX,skype.com
+// sketch cloud
+DOMAIN-SUFFIX,sketch.cloud
+
+// CI
+DOMAIN-SUFFIX,appveyor.com
+
+DOMAIN-SUFFIX,gitbook.com
+
+// apple news
+DOMAIN-SUFFIX,ls.apple.com
+USER-AGENT,com.apple.news*
+USER-AGENT,AppleNews*
+
+// dev
+DOMAIN-SUFFIX,mapbox.com
+DOMAIN-KEYWORD,pornhub
+
+#slack
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-msgs.com
+
+# bitbucket
+DOMAIN-SUFFIX,bitbucket.com
+DOMAIN-SUFFIX,teehitra.com
+// Telegram
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.org
