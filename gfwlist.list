@@ -1,5 +1,5 @@
 // SS config file for surge with gfw list 
-// updated on 2019-04-26 17:29:28
+// updated on 2019-05-02 15:15:28
 
 DOMAIN-SUFFIX,85.17.73.31
 DOMAIN-SUFFIX,agnesb.fr
@@ -5188,11 +5188,7 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,zh.wikisource.org
 DOMAIN-SUFFIX,zh.wikinews.org
 DOMAIN-SUFFIX,ja.wikipedia.org
-DOMAIN-SUFFIX,zh.wikipedia.org
-DOMAIN-SUFFIX,ug.m.wikipedia.org
-DOMAIN-SUFFIX,zh.m.wikipedia.org
-DOMAIN-SUFFIX,wuu.wikipedia.org
-DOMAIN-SUFFIX,zh-yue.wikipedia.org
+DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiwiki.jp
 DOMAIN-SUFFIX,casino.williamhill.com
 DOMAIN-SUFFIX,sports.williamhill.com
