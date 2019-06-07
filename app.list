@@ -3,8 +3,6 @@ USER-AGENT,TikTok*
 DOMAIN-SUFFIX,tiktok.com
 # Quora
 USER-AGENT,Quora*
-# Netflix
-USER-AGENT,Argo*
 // macOS（Telegram 客户端）
 PROCESS-NAME,Telegram
 //iOS
