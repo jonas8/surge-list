@@ -12,3 +12,4 @@ USER-AGENT,ph.telegra.Telegraph*
 USER-AGENT,Slack*
 // macOS Slack
 PROCESS-NAME,Slack
+PROCESS-NAME,com.tencent.ig
