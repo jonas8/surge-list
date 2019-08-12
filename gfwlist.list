@@ -1,5 +1,5 @@
 // SS config file for surge with gfw list 
-// updated on 2019-08-05 16:21:39
+// updated on 2019-08-12 23:32:03
 
 DOMAIN-SUFFIX,85.17.73.31
 DOMAIN-SUFFIX,agnesb.fr
@@ -655,7 +655,6 @@ DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,thefacebook.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,www.ftchinese.com
 DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,466453.com

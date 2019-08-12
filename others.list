@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,nuget.org
 // dropbox
 DOMAIN-SUFFIX,dropboxstatic.com
 // caniuse
