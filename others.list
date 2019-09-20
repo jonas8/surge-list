@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,ls.apple.com
 USER-AGENT,com.apple.news*
 USER-AGENT,AppleNews*
+USER-AGENT,News/*
 
 // dev
 DOMAIN-SUFFIX,mapbox.com
