@@ -8,7 +8,9 @@ hostname = *.googlevideo.com
 var data = {
   body: "{}",
   headers: {
-    "Content-Type": "multipart/byteranges"
+    "Content-Type": "application/json",
+    "Access-Control-Allow-Credentials": true,
+    "access-control-allow-origin": "https://www.youtube.com"
   }
 };
 $done({response: data});
