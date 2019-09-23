@@ -6,10 +6,10 @@ http-request ^https://mp\.weixin\.qq\.com/mp/getappmsgad script-path=https://raw
 hostname = mp.weixin.qq.com
 */
 
-var data = {
+const response = {
   body: "",
   headers: {
     "Content-Type": "application/json"
   }
 };
-$done({response: data});
+$done({response});
