@@ -12,3 +12,13 @@ USER-AGENT,ph.telegra.Telegraph*
 USER-AGENT,Slack*
 // macOS Slack
 PROCESS-NAME,Slack
+
+// apple news
+PROCESS-NAME,News
+DOMAIN,gspe1-ssl.ls.apple.com
+USER-AGENT,AppleNews*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
