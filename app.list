@@ -1,6 +1,3 @@
-# TikTok
-USER-AGENT,TikTok*
-DOMAIN-SUFFIX,tiktok.com
 # Quora
 USER-AGENT,Quora*
 // macOS（Telegram 客户端）
