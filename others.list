@@ -69,4 +69,4 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,vfsglobal.com
 // apollographql
-engine-graphql.apollographql.com
+DOMAIN-SUFFIX,engine-graphql.apollographql.com
