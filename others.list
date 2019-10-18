@@ -70,3 +70,5 @@ DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,vfsglobal.com
 // apollographql
 DOMAIN-SUFFIX,engine-graphql.apollographql.com
+// surfshark
+DOMAIN-SUFFIX,surfshark.com
