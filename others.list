@@ -74,3 +74,7 @@ DOMAIN-SUFFIX,engine-graphql.apollographql.com
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,dipabhavan.org
 DOMAIN-SUFFIX,ifixit.com
+
+// wix
+DOMAIN-SUFFIX,wixsite.com
+DOMAIN-SUFFIX,wix.com
