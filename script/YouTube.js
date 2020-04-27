@@ -4,7 +4,10 @@ http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https
 [MITM]
 hostname = *.googlevideo.com
 */
-
-let headers = $response.headers;
-
-$done({headers, body: {}});
+$done({
+  headers: {
+    "Content-Type": "application/byteranges",
+    "Access-Control-Allow-Credentials": "true",
+    "access-control-allow-origin": "https://www.youtube.com"
+  }
+});
