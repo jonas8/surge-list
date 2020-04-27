@@ -5,12 +5,6 @@ http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https
 hostname = *.googlevideo.com
 */
 
-var data = {
-  body: "{}",
-  headers: {
-    "Content-Type": "application/byteranges",
-    "Access-Control-Allow-Credentials": true,
-    "access-control-allow-origin": "https://www.youtube.com"
-  }
-};
-$done({response: data});
+let headers = $response.headers;
+
+$done({headers, body: {}});

@@ -1,6 +1,6 @@
 #!name=Remove Youtube ADs
 [Script]
-http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://raw.githubusercontent.com/jonas8/surge-list/master/script/YouTube.js
+http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://raw.githubusercontent.com/jonas8/surge-list/master/script/YouTube.js, requires-body=true
 
 [MITM]
 hostname = *.googlevideo.com
