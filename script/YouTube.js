@@ -5,6 +5,7 @@ http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https
 hostname = *.googlevideo.com
 */
 $done({
+  body: "{}",
   headers: {
     "Content-Type": "application/byteranges",
     "Access-Control-Allow-Credentials": "true",
