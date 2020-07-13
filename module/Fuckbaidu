@@ -1,0 +1,6 @@
+#!name=Fuck baidu
+#!desc=Fuck baidu.
+[URL Rewrite]
+^https?://(www.)?baidu.com https://www.google.com 302
+[MITM]
+hostname = %APPEND% *.baidu.com

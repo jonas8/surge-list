@@ -1,0 +1,7 @@
+#!name=Tiktok unlock
+#!desc=Unlock tiktok in China.
+[URL Rewrite]
+(.*video_id=\w{32})(.*watermark=)(.*) $1 302
+(?<=(carrier|account|sys)_region=)CN US 307
+[MITM]
+hostname = %APPEND% api*.amemv.com, api*.musical.ly, aweme*.snssdk.com, api*.tiktokv.com

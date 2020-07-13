@@ -1,7 +1,6 @@
-#!name=YouTube
+#!name=YouTube ads block
 #!desc=YouTube videos removes ads.
 [Script]
-http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://raw.githubusercontent.com/jonas8/surge-list/master/script/YouTube.js
-
+YoutubeAds = type=http-request,pattern=^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier),script-path=https://raw.githubusercontent.com/jonas8/surge-list/master/script/YouTube.js
 [MITM]
 hostname = %APPEND% *.googlevideo.com
