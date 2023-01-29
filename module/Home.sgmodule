@@ -1,0 +1,5 @@
+#!name=WireGuard 内网访问
+#!desc=开启后，可在非家中网络环境访问家庭内网
+
+[Rule]
+AND,((OR,((SUBNET,TYPE:CELLULAR), (NOT, ((OR, ((SUBNET,SSID:ghost-5g), (SUBNET,SSID:ghost-2.4))))))), (IP-CIDR,10.0.0.0/24)),🛖

@@ -19,6 +19,10 @@ DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-KEYWORD,avoddashs
 
 // Bahamut
 USER-AGENT,Anime*
@@ -119,3 +123,12 @@ DOMAIN-SUFFIX,youtu.be
 # TikTok
 USER-AGENT,TikTok*
 DOMAIN-SUFFIX,tiktok.com
+
+// disney
+DOMAIN-SUFFIX,registerdisney.go.com
+DOMAIN-KEYWORD,dssott.com
+DOMAIN-SUFFIX,edge.bamgrid.com
+DOMAIN-SUFFIX,www.disneyplus.com
+DOMAIN-SUFFIX,dssott-cds.s.llnwi.net
+DOMAIN-SUFFIX,alphacdn.net
+DOMAIN-SUFFIX,dss.map.fastly.net
