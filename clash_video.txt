@@ -45,6 +45,7 @@ payload:
 - DOMAIN-SUFFIX,urlload.net
 - DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com
 - DOMAIN-SUFFIX,hbo.com
+- DOMAIN-SUFFIX,hbomaxcdn.com
 - DOMAIN-SUFFIX,hboasia.com
 - DOMAIN-SUFFIX,hbogo.com
 - DOMAIN-SUFFIX,hbogoasia.hk
