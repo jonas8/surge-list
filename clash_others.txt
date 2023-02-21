@@ -59,3 +59,4 @@ payload:
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,dzcdn.net
 - DOMAIN-SUFFIX,deezer.com
+- DOMAIN-SUFFIX,cloud.cupronickel.goog
